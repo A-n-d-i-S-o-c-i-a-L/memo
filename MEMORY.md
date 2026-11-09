@@ -11,3 +11,5 @@ User asked about making Hermes Agent as powerful as possible. Key insight: the u
 Crypto Faucet Collector built 2026-06-28 at C:\Users\andre\DEV\tools\crypto-faucet-collector\. Supports FreeBitco.in, Cointiply, BonusBitcoin, FireFaucet. Uses Playwright + 2Captcha. Cron job "crypto-faucet-collector" runs hourly. Needs credentials.yaml and 2Captcha API key to go live.
 §
 Project ToolsRus (ToolScout): Path C:/Users/andre/DEV/ToolsRus. Core intelligence in ToolScout_V3_complete/Toolscout/ai_tool_intelligence/. Uses a CSV database at backups/toolscout_db.csv. Scheduler runs in scheduler/cron_job.py. UI backend runs from web_ui/main.py on port 8081.
+§
+Updated directory-scraper-development skill with TAAFT/WSJ URL filtering pitfall and TAAFT tool-page enrichment patterns.
